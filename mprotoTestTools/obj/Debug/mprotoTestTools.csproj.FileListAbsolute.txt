@@ -1,0 +1,12 @@
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\bin\Debug\mprotoTestTools.exe.config
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\bin\Debug\mprotoTestTools.exe
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\bin\Debug\mprotoTestTools.pdb
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.csprojResolveAssemblyReference.cache
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.电机控制调试工具.resources
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.Properties.Resources.resources
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.csproj.GenerateResource.Cache
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.exe
+C:\工作相关\全自动生化仪\software\mprotoTools\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.pdb
+C:\工作相关\全自动生化仪\software\test\mprotoTestTools\mprotoTestTools\bin\Debug\mprotoTestTools.exe.config
+C:\工作相关\全自动生化仪\software\test\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.exe
+C:\工作相关\全自动生化仪\software\test\mprotoTestTools\mprotoTestTools\obj\Debug\mprotoTestTools.pdb
